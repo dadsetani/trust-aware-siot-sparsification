@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: >-
+  If you use the software or research artifacts in this repository, please
+  cite this repository. Please also cite the associated article when available.
+type: software
+title: "Trust-Aware SIoT Graph Sparsification: Research Code and Artifacts"
+repository-code: "https://github.com/dadsetani/trust-aware-siot-sparsification"
+authors:
+  - given-names: "Makan H.S."
+    family-names: "Javadi"
+    affiliation: "Department of Computer Engineering, Sharif University of Technology, Tehran, Iran"
+  - given-names: "Elham"
+    family-names: "Gholami Mateki"
+    affiliation: "Independent Researcher, Tehran, Iran"
+  - given-names: "M. K."
+    family-names: "Dadsetani"
+    affiliation: "Department of Computer Engineering, Faculty of Engineering, Shahed University, Tehran, Iran"
+    orcid: "https://orcid.org/0009-0002-9540-7593"
