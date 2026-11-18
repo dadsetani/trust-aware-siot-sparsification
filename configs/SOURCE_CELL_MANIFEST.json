@@ -1,0 +1,62 @@
+{
+  "notebook": "notebooks/TAGS_v3_E3_36_research_archive.ipynb",
+  "policy": "byte-for-byte UTF-8 source copy from notebook cell content; extraction does not execute or modify any cell",
+  "stages": [
+    {
+      "cell_index_0_based": 145,
+      "file": "research_steps/01_simulated_scenario_seed104.py",
+      "description": "E3.28: owner-correlated trust scenario, seed 104",
+      "sha256": "3757b1c69937c31ee03cbb155358870fb88d15e0eb11d202c126c26eeafd46c3",
+      "bytes": 9744
+    },
+    {
+      "cell_index_0_based": 146,
+      "file": "research_steps/02_historical_trust_features.py",
+      "description": "E3.29: prequential trust features",
+      "sha256": "e5b0afd0609d6f8b411f9e5e7be48042a5c92117c30d3dbd2f0e906f9cbdc7b1",
+      "bytes": 12213
+    },
+    {
+      "cell_index_0_based": 147,
+      "file": "research_steps/03_model_input_preparation.py",
+      "description": "E3.30: model input preparation",
+      "sha256": "c0ac22f20cafcea80cad5be49342b4d4d7ae3e1f47a20e09d28df8ba80e026a3",
+      "bytes": 6087
+    },
+    {
+      "cell_index_0_based": 148,
+      "file": "research_steps/04_training_seed_setup.py",
+      "description": "E3.31: model training across seeds",
+      "sha256": "dd115094d153a2965e622a4166482a266b54f68aaf0e909d1518e49eeca7d940",
+      "bytes": 9906
+    },
+    {
+      "cell_index_0_based": 151,
+      "file": "research_steps/05_budget_sensitivity.py",
+      "description": "E3.34: budget sensitivity retraining",
+      "sha256": "d3a9c995790e8d95b6dc8702fea7f3cd09664b1588a089e5b39e1f78df56117b",
+      "bytes": 11016
+    },
+    {
+      "cell_index_0_based": 159,
+      "file": "research_steps/06_recover_model_and_preprocessing.py",
+      "description": "E3.RECOVER: recovery and model definitions",
+      "sha256": "fd7929ca3d985d5d1a82bcf4bf8541f13eecc69ddf86d63605bbb4bd5c41ca8a",
+      "bytes": 19600
+    },
+    {
+      "cell_index_0_based": 167,
+      "file": "research_steps/07_validation_three_seeds.py",
+      "description": "E3.35: validation replication",
+      "sha256": "8c92b318c34cfcd1f76f2da4f5c882934eb6f11ca9c9b2b222719c35c6126167",
+      "bytes": 8661
+    },
+    {
+      "cell_index_0_based": 168,
+      "file": "research_steps/08_heldout_test_original.py",
+      "description": "E3.36: frozen one-time held-out test",
+      "sha256": "2feeae2df4213c7ac42e25b684a69bebeb998a84689422dbf4b39b9be32769a8",
+      "bytes": 15163
+    }
+  ]
+}

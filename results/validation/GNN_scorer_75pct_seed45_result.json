@@ -1,0 +1,13 @@
+{
+  "simulation_seed": 104,
+  "model_seed": 45,
+  "budget_fraction": 0.75,
+  "retained_edges": 109588,
+  "model": "GNN_scorer",
+  "best_epoch": 49,
+  "best_AP": 0.46060038563093103,
+  "epoch60_AP": 0.4604114031987488,
+  "epoch60_AUC": 0.645311818920844,
+  "epoch60_BCE": 0.6038639301102694,
+  "epoch60_churn": 0.056840164981567326
+}

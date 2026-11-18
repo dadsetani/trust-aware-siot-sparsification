@@ -1,0 +1,116 @@
+{
+  "kind": "FROZEN_18_CHECKPOINTS",
+  "created_utc": "2026-11-18T08:57:01.422858+00:00",
+  "source_root": "/kaggle/working/phase2_adaptive_siot",
+  "training_or_test_executed": false,
+  "files": [
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/budget_study/e3_34b_recovered_seed44_25_75/GNN_scorer_25pct_seed44_checkpoint.pt",
+      "archive_path": "frozen_checkpoints/E3_tags_v3/scenarios/B_owner_correlated/seed_104/budget_study/e3_34b_recovered_seed44_25_75/GNN_scorer_25pct_seed44_checkpoint.pt",
+      "bytes": 123333,
+      "sha256": "01a613bd82960d0b789eb60225327b1851510e5ed1c80c5f5836e291717d4ad5"
+    },
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/budget_study/e3_34b_recovered_seed44_25_75/Trust_only_scorer_25pct_seed44_checkpoint.pt",
+      "archive_path": "frozen_checkpoints/E3_tags_v3/scenarios/B_owner_correlated/seed_104/budget_study/e3_34b_recovered_seed44_25_75/Trust_only_scorer_25pct_seed44_checkpoint.pt",
+      "bytes": 90943,
+      "sha256": "cf5a52033d4cf0f4fdbc4017bebace1ed1e3b5008e20af3eb6a3aeee6ce34e4f"
+    },
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/tags_v3/e3_31_model_seed_44/GNN_scorer_checkpoint.pt",
+      "archive_path": "frozen_checkpoints/E3_tags_v3/scenarios/B_owner_correlated/seed_104/tags_v3/e3_31_model_seed_44/GNN_scorer_checkpoint.pt",
+      "bytes": 122503,
+      "sha256": "5fac5a920e416ae76b8c14664ae48598fa9687b9a8f5e900af6e04c3b3529fe1"
+    },
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/tags_v3/e3_31_model_seed_44/Trust_only_scorer_checkpoint.pt",
+      "archive_path": "frozen_checkpoints/E3_tags_v3/scenarios/B_owner_correlated/seed_104/tags_v3/e3_31_model_seed_44/Trust_only_scorer_checkpoint.pt",
+      "bytes": 90177,
+      "sha256": "e85770827e713ef2dbfbd3ac5892845c5127d10970b44d17a4bbd8ab79e5ca97"
+    },
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/budget_study/e3_34b_recovered_seed44_25_75/GNN_scorer_75pct_seed44_checkpoint.pt",
+      "archive_path": "frozen_checkpoints/E3_tags_v3/scenarios/B_owner_correlated/seed_104/budget_study/e3_34b_recovered_seed44_25_75/GNN_scorer_75pct_seed44_checkpoint.pt",
+      "bytes": 123333,
+      "sha256": "20f11a9796fd1f8781325fdaf3fe07efb01bb17692c1d8c7016b6f1c4c529b3b"
+    },
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/budget_study/e3_34b_recovered_seed44_25_75/Trust_only_scorer_75pct_seed44_checkpoint.pt",
+      "archive_path": "frozen_checkpoints/E3_tags_v3/scenarios/B_owner_correlated/seed_104/budget_study/e3_34b_recovered_seed44_25_75/Trust_only_scorer_75pct_seed44_checkpoint.pt",
+      "bytes": 90943,
+      "sha256": "79684bf60fab1e0686045f69f5b1e3baf01711e8f28af52f75c09ef94f509a43"
+    },
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/budget_study/e3_35_replicate_seed45_46/GNN_scorer_25pct_seed45_checkpoint.pt",
+      "archive_path": "frozen_checkpoints/E3_tags_v3/scenarios/B_owner_correlated/seed_104/budget_study/e3_35_replicate_seed45_46/GNN_scorer_25pct_seed45_checkpoint.pt",
+      "bytes": 123333,
+      "sha256": "af1165df1b97447b3ad77331d4f49e5f6418dadc118c870ec9d4b7df43667623"
+    },
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/budget_study/e3_35_replicate_seed45_46/Trust_only_scorer_25pct_seed45_checkpoint.pt",
+      "archive_path": "frozen_checkpoints/E3_tags_v3/scenarios/B_owner_correlated/seed_104/budget_study/e3_35_replicate_seed45_46/Trust_only_scorer_25pct_seed45_checkpoint.pt",
+      "bytes": 90943,
+      "sha256": "1a9df97d5de654887827aba8b55ffb3055e2380824714c2be532fabec3f94c6b"
+    },
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/tags_v3/e3_31_model_seed_45/GNN_scorer_checkpoint.pt",
+      "archive_path": "frozen_checkpoints/E3_tags_v3/scenarios/B_owner_correlated/seed_104/tags_v3/e3_31_model_seed_45/GNN_scorer_checkpoint.pt",
+      "bytes": 122503,
+      "sha256": "a00ff782e30110d6651602cc0cc6fe9286d648cc78464c11f3c8031047e5e5fd"
+    },
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/tags_v3/e3_31_model_seed_45/Trust_only_scorer_checkpoint.pt",
+      "archive_path": "frozen_checkpoints/E3_tags_v3/scenarios/B_owner_correlated/seed_104/tags_v3/e3_31_model_seed_45/Trust_only_scorer_checkpoint.pt",
+      "bytes": 90177,
+      "sha256": "71ef36e0f3dcb713c28493cd1db7c3ddb1a327cb5eeaa2af2e702fd63c14b9db"
+    },
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/budget_study/e3_35_replicate_seed45_46/GNN_scorer_75pct_seed45_checkpoint.pt",
+      "archive_path": "frozen_checkpoints/E3_tags_v3/scenarios/B_owner_correlated/seed_104/budget_study/e3_35_replicate_seed45_46/GNN_scorer_75pct_seed45_checkpoint.pt",
+      "bytes": 123333,
+      "sha256": "730c3f78d0ef800c1a6765959ddaf35ac327d0fe0babf6baa36c04fb60f1a05d"
+    },
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/budget_study/e3_35_replicate_seed45_46/Trust_only_scorer_75pct_seed45_checkpoint.pt",
+      "archive_path": "frozen_checkpoints/E3_tags_v3/scenarios/B_owner_correlated/seed_104/budget_study/e3_35_replicate_seed45_46/Trust_only_scorer_75pct_seed45_checkpoint.pt",
+      "bytes": 90943,
+      "sha256": "4e588aa8dbc6158734f99cc0472b775cdf05ad13a0b9b745e1bd558408bb16ed"
+    },
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/budget_study/e3_35_replicate_seed45_46/GNN_scorer_25pct_seed46_checkpoint.pt",
+      "archive_path": "frozen_checkpoints/E3_tags_v3/scenarios/B_owner_correlated/seed_104/budget_study/e3_35_replicate_seed45_46/GNN_scorer_25pct_seed46_checkpoint.pt",
+      "bytes": 123333,
+      "sha256": "2255edf97e7349e2e3bcaf1d182f29db2cd8960d6a39b982fd328e3baf531b3a"
+    },
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/budget_study/e3_35_replicate_seed45_46/Trust_only_scorer_25pct_seed46_checkpoint.pt",
+      "archive_path": "frozen_checkpoints/E3_tags_v3/scenarios/B_owner_correlated/seed_104/budget_study/e3_35_replicate_seed45_46/Trust_only_scorer_25pct_seed46_checkpoint.pt",
+      "bytes": 90943,
+      "sha256": "c1d20d3588631856f622ed2c5592be8a6bea382b417748c00f672e558cabdd8a"
+    },
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/tags_v3/e3_31_model_seed_46/GNN_scorer_checkpoint.pt",
+      "archive_path": "frozen_checkpoints/E3_tags_v3/scenarios/B_owner_correlated/seed_104/tags_v3/e3_31_model_seed_46/GNN_scorer_checkpoint.pt",
+      "bytes": 122503,
+      "sha256": "422a1ee9c49e4fc868b0e765e3dd771e227b9b26b2b7eed1e71058bafe987035"
+    },
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/tags_v3/e3_31_model_seed_46/Trust_only_scorer_checkpoint.pt",
+      "archive_path": "frozen_checkpoints/E3_tags_v3/scenarios/B_owner_correlated/seed_104/tags_v3/e3_31_model_seed_46/Trust_only_scorer_checkpoint.pt",
+      "bytes": 90177,
+      "sha256": "7a66be94b0a975c1fa2f896aacb9179561fdeea09e7c27395b6fb84843a5f103"
+    },
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/budget_study/e3_35_replicate_seed45_46/GNN_scorer_75pct_seed46_checkpoint.pt",
+      "archive_path": "frozen_checkpoints/E3_tags_v3/scenarios/B_owner_correlated/seed_104/budget_study/e3_35_replicate_seed45_46/GNN_scorer_75pct_seed46_checkpoint.pt",
+      "bytes": 123333,
+      "sha256": "52bafa6a578c54b399223a3e81f36f53c5471a9b9150a764a59e738250fa7280"
+    },
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/budget_study/e3_35_replicate_seed45_46/Trust_only_scorer_75pct_seed46_checkpoint.pt",
+      "archive_path": "frozen_checkpoints/E3_tags_v3/scenarios/B_owner_correlated/seed_104/budget_study/e3_35_replicate_seed45_46/Trust_only_scorer_75pct_seed46_checkpoint.pt",
+      "bytes": 90943,
+      "sha256": "312ee2cc8a3e23f6f5bc37eb9c6df2f5778ab409b96f845379f88c0383183d6d"
+    }
+  ]
+}

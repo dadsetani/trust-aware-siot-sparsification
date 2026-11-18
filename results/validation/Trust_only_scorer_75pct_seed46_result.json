@@ -1,0 +1,13 @@
+{
+  "simulation_seed": 104,
+  "model_seed": 46,
+  "budget_fraction": 0.75,
+  "retained_edges": 109588,
+  "model": "Trust_only_scorer",
+  "best_epoch": 56,
+  "best_AP": 0.4588291509760186,
+  "epoch60_AP": 0.4588226505332831,
+  "epoch60_AUC": 0.6467059986319563,
+  "epoch60_BCE": 0.602280449386245,
+  "epoch60_churn": 0.04693032083804796
+}

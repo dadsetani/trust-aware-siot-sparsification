@@ -1,0 +1,8 @@
+# Dependency inventory inferred from final research stage imports (not pinned or tested for training).
+# Install only if exploring historical notebook modules. The archived CSV verification scripts
+# need Python standard library only and DO NOT require these dependencies.
+numpy
+pandas
+torch
+scikit-learn
+joblib

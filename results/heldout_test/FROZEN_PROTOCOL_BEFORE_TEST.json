@@ -1,0 +1,65 @@
+{
+  "experiment": "E3.36",
+  "scenario": "B_owner_correlated",
+  "simulation_seed": 104,
+  "model_seeds": [
+    44,
+    45,
+    46
+  ],
+  "budgets": [
+    0.25,
+    0.5,
+    0.75
+  ],
+  "methods": [
+    "GNN_scorer",
+    "Trust_only_scorer"
+  ],
+  "epochs": 60,
+  "checkpoint": "epoch60_model_state_dict",
+  "train_times": [
+    5,
+    6,
+    7
+  ],
+  "validation_times": [
+    8,
+    9
+  ],
+  "test_times": [
+    10,
+    11
+  ],
+  "metrics": [
+    "AP",
+    "AUC",
+    "BCE",
+    "churn"
+  ],
+  "aggregation": "pool predictions across t10 and t11; paired GNN-minus-Trust by seed and budget",
+  "historical_policy": "Strict E3.29 accumulator reconstruction in memory; at t11, t10 outcomes are history; no current/future outcomes used in features",
+  "model_selection": "NONE on test",
+  "optimizer_steps": 0,
+  "checkpoint_paths": [
+    "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/budget_study/e3_34b_recovered_seed44_25_75/GNN_scorer_25pct_seed44_checkpoint.pt",
+    "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/budget_study/e3_34b_recovered_seed44_25_75/Trust_only_scorer_25pct_seed44_checkpoint.pt",
+    "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/tags_v3/e3_31_model_seed_44/GNN_scorer_checkpoint.pt",
+    "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/tags_v3/e3_31_model_seed_44/Trust_only_scorer_checkpoint.pt",
+    "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/budget_study/e3_34b_recovered_seed44_25_75/GNN_scorer_75pct_seed44_checkpoint.pt",
+    "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/budget_study/e3_34b_recovered_seed44_25_75/Trust_only_scorer_75pct_seed44_checkpoint.pt",
+    "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/budget_study/e3_35_replicate_seed45_46/GNN_scorer_25pct_seed45_checkpoint.pt",
+    "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/budget_study/e3_35_replicate_seed45_46/Trust_only_scorer_25pct_seed45_checkpoint.pt",
+    "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/tags_v3/e3_31_model_seed_45/GNN_scorer_checkpoint.pt",
+    "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/tags_v3/e3_31_model_seed_45/Trust_only_scorer_checkpoint.pt",
+    "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/budget_study/e3_35_replicate_seed45_46/GNN_scorer_75pct_seed45_checkpoint.pt",
+    "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/budget_study/e3_35_replicate_seed45_46/Trust_only_scorer_75pct_seed45_checkpoint.pt",
+    "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/budget_study/e3_35_replicate_seed45_46/GNN_scorer_25pct_seed46_checkpoint.pt",
+    "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/budget_study/e3_35_replicate_seed45_46/Trust_only_scorer_25pct_seed46_checkpoint.pt",
+    "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/tags_v3/e3_31_model_seed_46/GNN_scorer_checkpoint.pt",
+    "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/tags_v3/e3_31_model_seed_46/Trust_only_scorer_checkpoint.pt",
+    "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/budget_study/e3_35_replicate_seed45_46/GNN_scorer_75pct_seed46_checkpoint.pt",
+    "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/budget_study/e3_35_replicate_seed45_46/Trust_only_scorer_75pct_seed46_checkpoint.pt"
+  ],
+  "frozen_at_utc": "2026-11-17T17:57:42.314372+00:00"
+}

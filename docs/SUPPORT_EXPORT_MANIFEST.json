@@ -1,0 +1,140 @@
+{
+  "kind": "GENERATED_SCENARIO_SUPPORT",
+  "created_utc": "2026-11-18T08:57:02.039625+00:00",
+  "source_root": "/kaggle/working/phase2_adaptive_siot",
+  "training_or_test_executed": false,
+  "files": [
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E2_temporal_trust/observed/siot_social_topology.csv.gz",
+      "archive_path": "generated_support/E2_temporal_trust/observed/siot_social_topology.csv.gz",
+      "bytes": 498961,
+      "sha256": "52f7b6461f9bc5adfebcf38b788ac0a05c3c33c1b72b2200d6a33896c7aaff7d"
+    },
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/causal_features/e3_29_causal_feature_audit.json",
+      "archive_path": "generated_support/E3_tags_v3/scenarios/B_owner_correlated/seed_104/causal_features/e3_29_causal_feature_audit.json",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/causal_features/edge_index_mapping.csv.gz",
+      "archive_path": "generated_support/E3_tags_v3/scenarios/B_owner_correlated/seed_104/causal_features/edge_index_mapping.csv.gz",
+      "bytes": 498959,
+      "sha256": "dcfb80263f49dacc46b03c420f7f1f5479026ad72e8f375ad88e8087fb8a1bf9"
+    },
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/causal_features/snapshot_t00.npz",
+      "archive_path": "generated_support/E3_tags_v3/scenarios/B_owner_correlated/seed_104/causal_features/snapshot_t00.npz",
+      "bytes": 21241,
+      "sha256": "6567008a54dbbdf7a7a3b1a7d4c16d617b84a5426f4be2083eda8f1f6580b003"
+    },
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/causal_features/snapshot_t01.npz",
+      "archive_path": "generated_support/E3_tags_v3/scenarios/B_owner_correlated/seed_104/causal_features/snapshot_t01.npz",
+      "bytes": 662803,
+      "sha256": "926f73784fa4a2285be2b542cb04a00696fa4700a03511dfaab19331d1f1e2dc"
+    },
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/causal_features/snapshot_t02.npz",
+      "archive_path": "generated_support/E3_tags_v3/scenarios/B_owner_correlated/seed_104/causal_features/snapshot_t02.npz",
+      "bytes": 879928,
+      "sha256": "25679dbe535f86802dbc24b0c759a9aff76ab8c16f99a65a3f2edb496ce42b04"
+    },
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/causal_features/snapshot_t03.npz",
+      "archive_path": "generated_support/E3_tags_v3/scenarios/B_owner_correlated/seed_104/causal_features/snapshot_t03.npz",
+      "bytes": 1039002,
+      "sha256": "9a161cc615b5e4e7063c3283938ca8efad88449419d6f4e53bcf6972d0a1f287"
+    },
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/causal_features/snapshot_t04.npz",
+      "archive_path": "generated_support/E3_tags_v3/scenarios/B_owner_correlated/seed_104/causal_features/snapshot_t04.npz",
+      "bytes": 1177002,
+      "sha256": "ed6e39857195fccd51e5705550492747df634fdce15e58d896becfc20089708f"
+    },
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/causal_features/snapshot_t05.npz",
+      "archive_path": "generated_support/E3_tags_v3/scenarios/B_owner_correlated/seed_104/causal_features/snapshot_t05.npz",
+      "bytes": 1310258,
+      "sha256": "6e5f13b276ad555939dbcca0079998ea8f53d4bb8e598a9195b8946f19ffcc92"
+    },
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/causal_features/snapshot_t06.npz",
+      "archive_path": "generated_support/E3_tags_v3/scenarios/B_owner_correlated/seed_104/causal_features/snapshot_t06.npz",
+      "bytes": 1436000,
+      "sha256": "1f9c6e85665880979f4c0c5f021d38e3063c2e14ffa813809e70959707831d8b"
+    },
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/causal_features/snapshot_t07.npz",
+      "archive_path": "generated_support/E3_tags_v3/scenarios/B_owner_correlated/seed_104/causal_features/snapshot_t07.npz",
+      "bytes": 1570602,
+      "sha256": "1d249ac2320293b9da44f023ca817db861c4161ef23f0eaf40b8251dfedd54ac"
+    },
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/causal_features/snapshot_t08.npz",
+      "archive_path": "generated_support/E3_tags_v3/scenarios/B_owner_correlated/seed_104/causal_features/snapshot_t08.npz",
+      "bytes": 1705072,
+      "sha256": "dd14b34f70be1edfd925086a8a41c91af4a839ffe591addb6202f571bc54f7db"
+    },
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/causal_features/snapshot_t09.npz",
+      "archive_path": "generated_support/E3_tags_v3/scenarios/B_owner_correlated/seed_104/causal_features/snapshot_t09.npz",
+      "bytes": 1840888,
+      "sha256": "a05ea55b6a269dd9727cd141c7103875a8ab22fe44e15a58a0f4e13ad6ec1bba"
+    },
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/e3_30_model_inputs/edge_scaler104.joblib",
+      "archive_path": "generated_support/E3_tags_v3/scenarios/B_owner_correlated/seed_104/e3_30_model_inputs/edge_scaler104.joblib",
+      "bytes": 1007,
+      "sha256": "77401cbeb8078d00b8c293fde9d43f84d579a000670ae70bc169ca15e48a41e9"
+    },
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/e3_30_model_inputs/node_scaler104.joblib",
+      "archive_path": "generated_support/E3_tags_v3/scenarios/B_owner_correlated/seed_104/e3_30_model_inputs/node_scaler104.joblib",
+      "bytes": 711,
+      "sha256": "1ef28a90d9dcd4832556708f1b2bbb964a0f83124ebd899824552c3ee2b1c8f2"
+    },
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/final_test/e3_36_frozen_epoch60_3seeds_3budgets/FROZEN_PROTOCOL_BEFORE_TEST.json",
+      "archive_path": "generated_support/E3_tags_v3/scenarios/B_owner_correlated/seed_104/final_test/e3_36_frozen_epoch60_3seeds_3budgets/FROZEN_PROTOCOL_BEFORE_TEST.json",
+      "bytes": 3887,
+      "sha256": "f4c933cd72bf25fd554ecbd657a65bd5ce0e890c2ae99bf9fa3f43305dd71856"
+    },
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/final_test/e3_36_frozen_epoch60_3seeds_3budgets/test_metrics_all_18.csv",
+      "archive_path": "generated_support/E3_tags_v3/scenarios/B_owner_correlated/seed_104/final_test/e3_36_frozen_epoch60_3seeds_3budgets/test_metrics_all_18.csv",
+      "bytes": 2814,
+      "sha256": "9c592bb796dcba6c0cf683ff02c2d1e0626c6bbb9675a7644ab20652ac7bed62"
+    },
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/final_test/e3_36_frozen_epoch60_3seeds_3budgets/test_paired_differences.csv",
+      "archive_path": "generated_support/E3_tags_v3/scenarios/B_owner_correlated/seed_104/final_test/e3_36_frozen_epoch60_3seeds_3budgets/test_paired_differences.csv",
+      "bytes": 2607,
+      "sha256": "e0642729a51f1219b4413c3f6be42c232f53a4a36fdc9ae280e171b8fd572778"
+    },
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/observed/siot_social_topology.csv.gz",
+      "archive_path": "generated_support/E3_tags_v3/scenarios/B_owner_correlated/seed_104/observed/siot_social_topology.csv.gz",
+      "bytes": 498961,
+      "sha256": "4840b4af00e1a70be9ef55f641efb02afedba7ed556e77b6dc390626e32d1337"
+    },
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/observed/test.csv.gz",
+      "archive_path": "generated_support/E3_tags_v3/scenarios/B_owner_correlated/seed_104/observed/test.csv.gz",
+      "bytes": 173909,
+      "sha256": "d23d959d8b86b95c65c4bfcc3a7e59705c64c0757759fafeaa3e4665f4fdd84f"
+    },
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/observed/train.csv.gz",
+      "archive_path": "generated_support/E3_tags_v3/scenarios/B_owner_correlated/seed_104/observed/train.csv.gz",
+      "bytes": 686235,
+      "sha256": "40ebec946c0ab2147b3e48a9dd64d59ff6b6cca641b1ad4a1c301a6978033f3d"
+    },
+    {
+      "source": "/kaggle/working/phase2_adaptive_siot/E3_tags_v3/scenarios/B_owner_correlated/seed_104/observed/validation.csv.gz",
+      "archive_path": "generated_support/E3_tags_v3/scenarios/B_owner_correlated/seed_104/observed/validation.csv.gz",
+      "bytes": 171862,
+      "sha256": "feff97b12b9631774230b202b2b2119ce2f305ecb09c3d783ec29d0115f47b12"
+    }
+  ]
+}
