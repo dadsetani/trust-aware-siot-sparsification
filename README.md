@@ -1,5 +1,7 @@
 # Trust-aware SIoT graph sparsification
 
+[![DOI](https://zenodo.org/badge/1462498789.svg)](https://doi.org/10.5281/zenodo.24338413)
+
 Research archive for **GNN-Based versus Trust-Only Edge Scoring in Trust-Aware Social IoT Graph Sparsification: A Controlled Simulation Study**.
 
 ## Research question
